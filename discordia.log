@@ -1,0 +1,452 @@
+2021-06-24 12:52:36 | [INFO]    | Discordia 2.8.4
+2021-06-24 12:52:36 | [INFO]    | Connecting to Discord...
+2021-06-24 12:52:37 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2021-06-24 12:52:37 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2021-06-24 12:53:28 | [INFO]    | Discordia 2.8.4
+2021-06-24 12:53:28 | [INFO]    | Connecting to Discord...
+2021-06-24 12:53:29 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 12:53:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 12:53:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 12:53:30 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 12:53:30 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:02:00 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:02:00 | [INFO]    | Connecting to Discord...
+2021-06-24 13:02:00 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:02:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:02:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:02:00 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:02:01 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:07:00 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:07:00 | [INFO]    | Connecting to Discord...
+2021-06-24 13:07:00 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:07:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:07:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:07:00 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:07:00 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:07:04 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/766791173129502751/members/239205804488523777
+2021-06-24 13:07:04 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/766791173129502751/members/239205804488523777/roles/810198057651011634
+2021-06-24 13:31:53 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:31:53 | [INFO]    | Connecting to Discord...
+2021-06-24 13:31:54 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:31:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:31:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:31:54 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:31:54 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:32:45 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:32:45 | [INFO]    | Connecting to Discord...
+2021-06-24 13:32:46 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:32:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:32:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:32:46 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:32:47 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:33:57 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:33:57 | [INFO]    | Connecting to Discord...
+2021-06-24 13:33:57 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:33:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:33:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:33:58 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:33:58 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:35:08 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:35:08 | [INFO]    | Connecting to Discord...
+2021-06-24 13:35:08 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:35:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:35:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:35:08 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:35:09 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:38:46 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:38:46 | [INFO]    | Connecting to Discord...
+2021-06-24 13:38:46 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:38:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:38:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:38:46 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:38:47 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:38:55 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857661075612106812/reactions/%3Awhite%5Fcheck%5Fmark%3A/@me
+2021-06-24 13:38:55 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857661075612106812/reactions/%3Ax%3A/@me
+2021-06-24 13:39:42 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:39:42 | [INFO]    | Connecting to Discord...
+2021-06-24 13:39:42 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:39:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:39:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:39:42 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:39:42 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:39:53 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857661319867662378/reactions/8%2E5766083885177e%2B17/@me
+2021-06-24 13:39:53 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857661319867662378/reactions/8%2E5766100526196e%2B17/@me
+2021-06-24 13:46:45 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:46:45 | [INFO]    | Connecting to Discord...
+2021-06-24 13:46:46 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:46:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:46:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:46:46 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:46:46 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:46:54 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857663087536766997/reactions/white%5Fcheck%5Fmark%3A857660838851772417/@me
+2021-06-24 13:46:55 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857663087536766997/reactions/x%3A857661005261963264/@me
+2021-06-24 13:47:12 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:47:12 | [INFO]    | Connecting to Discord...
+2021-06-24 13:47:12 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:47:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:47:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:47:12 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:47:13 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:47:19 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857663190012133406/reactions/857660838851772417/@me
+2021-06-24 13:47:19 | [ERROR]   | 400 - Bad Request : PUT https://discord.com/api/v7/channels/826264550193758288/messages/857663190012133406/reactions/857661005261963264/@me
+2021-06-24 13:47:56 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:47:56 | [INFO]    | Connecting to Discord...
+2021-06-24 13:47:57 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:47:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:47:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:47:57 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:47:57 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:52:00 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:52:00 | [INFO]    | Connecting to Discord...
+2021-06-24 13:52:00 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:52:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:52:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:52:00 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:52:01 | [INFO]    | Shard 0 : Received READY
+2021-06-24 13:52:07 | [INFO]    | Discordia 2.8.4
+2021-06-24 13:52:07 | [INFO]    | Connecting to Discord...
+2021-06-24 13:52:07 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 13:52:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 13:52:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 13:52:07 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 13:52:07 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:11:29 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:11:29 | [INFO]    | Connecting to Discord...
+2021-06-24 14:11:30 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:11:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:11:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:11:30 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:11:30 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:12:24 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:12:24 | [INFO]    | Connecting to Discord...
+2021-06-24 14:12:24 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:12:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:12:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:12:25 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:12:25 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:13:11 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:13:11 | [INFO]    | Connecting to Discord...
+2021-06-24 14:13:11 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:13:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:13:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:13:12 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:13:12 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:14:14 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:14:14 | [INFO]    | Connecting to Discord...
+2021-06-24 14:14:14 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:14:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:14:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:14:14 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:14:15 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:16:39 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:16:39 | [INFO]    | Connecting to Discord...
+2021-06-24 14:16:39 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:16:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:16:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:16:40 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:16:40 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:49:15 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:49:15 | [INFO]    | Connecting to Discord...
+2021-06-24 14:49:16 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:49:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:49:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:49:16 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:49:16 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:50:01 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:50:01 | [INFO]    | Connecting to Discord...
+2021-06-24 14:50:02 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:50:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:50:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:50:02 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:50:02 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:50:29 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:50:29 | [INFO]    | Connecting to Discord...
+2021-06-24 14:50:30 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:50:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:50:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:50:30 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:50:30 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:57:06 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:57:06 | [INFO]    | Connecting to Discord...
+2021-06-24 14:57:06 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:57:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:57:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:57:06 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:57:07 | [INFO]    | Shard 0 : Received READY
+2021-06-24 14:57:37 | [INFO]    | Discordia 2.8.4
+2021-06-24 14:57:37 | [INFO]    | Connecting to Discord...
+2021-06-24 14:57:37 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 14:57:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 14:57:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 14:57:37 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 14:57:38 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:14:41 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:14:41 | [INFO]    | Connecting to Discord...
+2021-06-24 15:14:41 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:14:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:14:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:14:42 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:14:42 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:15:16 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:15:16 | [INFO]    | Connecting to Discord...
+2021-06-24 15:15:16 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:15:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:15:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:15:16 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:15:16 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:28:12 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:28:12 | [INFO]    | Connecting to Discord...
+2021-06-24 15:28:12 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:28:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:28:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:28:12 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:28:13 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:29:20 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v7/guilds/766791173129502751/members/857645022325374976/roles/810198057651011634
+2021-06-24 15:32:43 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:32:43 | [INFO]    | Connecting to Discord...
+2021-06-24 15:32:43 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:32:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:32:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:32:43 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:32:43 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:38:26 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:38:26 | [INFO]    | Connecting to Discord...
+2021-06-24 15:38:27 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:38:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:38:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:38:27 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:38:27 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:45:24 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:45:24 | [INFO]    | Connecting to Discord...
+2021-06-24 15:45:24 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:45:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:45:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:45:24 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:45:25 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:51:04 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:51:04 | [INFO]    | Connecting to Discord...
+2021-06-24 15:51:04 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:51:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:51:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:51:05 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:51:05 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:51:29 | [ERROR]   | 404 - Not Found : PATCH https://discord.com/api/v7/channels/857689267744800803/messages/857694383901245480
+2021-06-24 15:51:29 | [ERROR]   | 404 - Not Found : PATCH https://discord.com/api/v7/channels/857689267744800803/messages/857694383901245480
+2021-06-24 15:52:43 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:52:43 | [INFO]    | Connecting to Discord...
+2021-06-24 15:52:44 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:52:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:52:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:52:44 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:52:44 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:52:57 | [ERROR]   | 404 - Not Found : PATCH https://discord.com/api/v7/channels/857689267744800803/messages/857694779331313684
+2021-06-24 15:52:57 | [ERROR]   | 404 - Not Found : PATCH https://discord.com/api/v7/channels/857689267744800803/messages/857694779331313684
+2021-06-24 15:55:10 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:55:10 | [INFO]    | Connecting to Discord...
+2021-06-24 15:55:10 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:55:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:55:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:55:11 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:55:11 | [INFO]    | Shard 0 : Received READY
+2021-06-24 15:55:59 | [INFO]    | Discordia 2.8.4
+2021-06-24 15:55:59 | [INFO]    | Connecting to Discord...
+2021-06-24 15:55:59 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 15:55:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 15:56:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 15:56:00 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 15:56:00 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:16:26 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:16:26 | [INFO]    | Connecting to Discord...
+2021-06-24 16:16:27 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:16:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:16:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:16:27 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:16:27 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:18:52 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:18:52 | [INFO]    | Connecting to Discord...
+2021-06-24 16:18:53 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:18:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:18:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:18:53 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:18:53 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:19:39 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:19:39 | [INFO]    | Connecting to Discord...
+2021-06-24 16:19:39 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:19:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:19:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:19:39 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:19:40 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:20:25 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:20:25 | [INFO]    | Connecting to Discord...
+2021-06-24 16:20:25 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:20:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:20:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:20:25 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:20:26 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:24:32 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:24:32 | [INFO]    | Connecting to Discord...
+2021-06-24 16:24:32 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:24:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:24:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:24:33 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:24:33 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:24:51 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 16:26:08 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:26:08 | [INFO]    | Connecting to Discord...
+2021-06-24 16:26:08 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:26:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:26:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:26:08 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:26:08 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:27:03 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:27:03 | [INFO]    | Connecting to Discord...
+2021-06-24 16:27:04 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:27:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:27:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:27:04 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:27:04 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:27:35 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 16:28:55 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:28:55 | [INFO]    | Connecting to Discord...
+2021-06-24 16:28:55 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:28:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:28:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:28:56 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:28:56 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:29:00 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 16:31:16 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:31:16 | [INFO]    | Connecting to Discord...
+2021-06-24 16:31:17 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:31:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:31:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:31:17 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:31:17 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:31:22 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 16:53:22 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:53:22 | [INFO]    | Connecting to Discord...
+2021-06-24 16:53:23 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:53:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:53:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:53:23 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:53:23 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:58:18 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:58:18 | [INFO]    | Connecting to Discord...
+2021-06-24 16:58:18 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:58:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:58:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:58:18 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:58:19 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:58:55 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 16:59:31 | [INFO]    | Discordia 2.8.4
+2021-06-24 16:59:31 | [INFO]    | Connecting to Discord...
+2021-06-24 16:59:32 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 16:59:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 16:59:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 16:59:32 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 16:59:32 | [INFO]    | Shard 0 : Received READY
+2021-06-24 16:59:50 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 17:01:48 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:01:48 | [INFO]    | Connecting to Discord...
+2021-06-24 17:01:48 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:01:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:01:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:01:48 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:01:48 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:02:09 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 17:03:51 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:03:51 | [INFO]    | Connecting to Discord...
+2021-06-24 17:03:52 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:03:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:03:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:03:52 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:03:52 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:04:29 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 17:05:15 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:05:15 | [INFO]    | Connecting to Discord...
+2021-06-24 17:05:16 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:05:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:05:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:05:16 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:05:16 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:05:46 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 17:11:09 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:11:09 | [INFO]    | Connecting to Discord...
+2021-06-24 17:11:10 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:11:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:11:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:11:10 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:11:10 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:11:41 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 17:12:30 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:12:30 | [INFO]    | Connecting to Discord...
+2021-06-24 17:12:31 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:12:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:12:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:12:31 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:12:31 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:12:39 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/857689267744800800/members/239205804488523777
+2021-06-24 17:13:30 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:13:30 | [INFO]    | Connecting to Discord...
+2021-06-24 17:13:31 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:13:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:13:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:13:31 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:13:31 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:14:00 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:14:00 | [INFO]    | Connecting to Discord...
+2021-06-24 17:14:00 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:14:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:14:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:14:00 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:14:00 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:14:41 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:14:41 | [INFO]    | Connecting to Discord...
+2021-06-24 17:14:41 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:14:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:14:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:14:42 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:14:42 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:15:10 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:15:10 | [INFO]    | Connecting to Discord...
+2021-06-24 17:15:10 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:15:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:15:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:15:10 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:15:10 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:15:47 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:15:47 | [INFO]    | Connecting to Discord...
+2021-06-24 17:15:48 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:15:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:15:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:15:48 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:15:48 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:16:18 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:16:18 | [INFO]    | Connecting to Discord...
+2021-06-24 17:16:19 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:16:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:16:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:16:19 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:16:19 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:17:44 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:17:44 | [INFO]    | Connecting to Discord...
+2021-06-24 17:17:44 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:17:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:17:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:17:45 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:17:45 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:26:50 | [INFO]    | Discordia 2.8.4
+2021-06-24 17:26:50 | [INFO]    | Connecting to Discord...
+2021-06-24 17:26:51 | [INFO]    | Authenticated as RPBR#1989
+2021-06-24 17:26:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-24 17:26:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-24 17:26:51 | [INFO]    | Shard 0 : Received HELLO
+2021-06-24 17:26:51 | [INFO]    | Shard 0 : Received READY
+2021-06-24 17:31:21 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2021-06-24 17:31:24 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2021-06-25 12:58:03 | [INFO]    | Discordia 2.8.4
+2021-06-25 12:58:03 | [INFO]    | Connecting to Discord...
+2021-06-25 12:58:04 | [INFO]    | Authenticated as RPBR#1989
+2021-06-25 12:58:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-06-25 12:58:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-06-25 12:58:04 | [INFO]    | Shard 0 : Received HELLO
+2021-06-25 12:58:05 | [INFO]    | Shard 0 : Received READY
