@@ -6,7 +6,7 @@ local discordia = require("discordia")
 
 --// Bot Settings
 local client = discordia.Client()
-local token = "ODU3NjQ1MDIyMzI1Mzc0OTc2.YNSmKw.3DDVTFc5WfIxvIoghpHiKkgZvRM"
+local token = "Hidden in GitHub"
 
 local lastSave = os.time()
 
